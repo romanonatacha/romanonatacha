@@ -7,7 +7,7 @@ To know more about my work you should check [my portfolio](https://romanonatacha
 - 🌱 I’m currently learning Python and Dash.
 - 👯 I’m looking to collaborate on freelance projects.
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love CSS :purple_heart
+- ⚡ Fun fact: I love CSS :purple_heart:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natacha-romano/)](https://www.linkedin.com/in/natacha-romano/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natacharomanonr@gmail.com)](mailto:natacharomanonr@gmail.com)
