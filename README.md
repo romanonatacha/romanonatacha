@@ -15,4 +15,4 @@ To know more about my work you should check [my portfolio](https://romanonatacha
 [![Github Badge](https://img.shields.io/badge/-Portfolio-8a37db?style=flat-square&logo=Github&logoColor=white&link=https://romanonatacha.github.io)](https://romanonatacha.github.io)
 [![Upwork](https://img.shields.io/badge/-Upwork-8a37db?style=flat-square&logo=Upwork&logoColor=white&color=green&link=https://www.upwork.com/fl/romanonatacha)](https://www.upwork.com/fl/romanonatacha)
 <br><br>
-![](https://komarev.com/ghpvc/?username=romanonatacha&color&=ff69b4&style=flat-square)
+![](https://komarev.com/ghpvc/?username=romanonatacha&color=ff69b4&style=flat-square)
