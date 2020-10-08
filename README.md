@@ -13,6 +13,6 @@ To know more about my work you should check [my portfolio](https://romanonatacha
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natacha-romano/)](https://www.linkedin.com/in/natacha-romano/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natacharomanonr@gmail.com)](mailto:natacharomanonr@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Portfolio-8a37db?style=flat-square&logo=Github&logoColor=white&link=https://romanonatacha.github.io)](https://romanonatacha.github.io)
-[![Upwork](https://img.shields.io/badge/-Upwork-8a37db?style=flat-square&color=green&link=https://www.upwork.com/fl/romanonatacha)](https://www.upwork.com/fl/romanonatacha)
-<br>br>
-![](https://komarev.com/ghpvc/?username=kaburelabs)
+[![Upwork](https://img.shields.io/badge/-Upwork-8a37db?style=flat-square&logo-Upworkcolor=green&link=https://www.upwork.com/fl/romanonatacha)](https://www.upwork.com/fl/romanonatacha)
+<br><br>
+![](https://komarev.com/ghpvc/?username=romanonatacha)
