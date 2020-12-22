@@ -5,6 +5,7 @@ To know more about my work you should check [my portfolio](https://romanonatacha
 
 🔭 I’m currently working with React and Next.js.<br />
 🌱 I’m currently learning Python and Dash.<br />
+🏆 I'm a Top Rated freelancer at Upwork.<br/>
 👯 I’m looking to collaborate on freelance projects.<br />
 ⚡ Fun fact: I love CSS :purple_heart:<br />
 
