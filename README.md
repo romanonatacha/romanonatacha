@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end developer, and software engineer with 4+ years of experience. <br />
+I'm a front-end developer, and software engineer with 6+ years of experience. <br />
 To know more about my work you should check [my portfolio](https://romanonatacha.github.io).
 
 🔭 I enjoy working with React and Next.js.<br />
